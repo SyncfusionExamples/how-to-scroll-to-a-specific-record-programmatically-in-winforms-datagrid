@@ -1,1 +1,5 @@
-# how-to-scroll-to-a-specific-record-programmatically-in-winforms-datagrid
+# How to scroll to a specific record programmatically in datagrid?
+
+## About the sample 
+
+This example illustrate how to scroll programmatically to a specific record in DataGrid.
